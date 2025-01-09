@@ -97,7 +97,7 @@ public class Picture extends SimplePicture {
             // bottom right side
 
 
-        }
+        
     }
 
     /** Method to set the blue to 0 */
